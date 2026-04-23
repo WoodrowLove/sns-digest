@@ -39,6 +39,8 @@ TARGETS: list[tuple[str, str]] = [
     ("KongSwap", "ormnc-tiaaa-aaaaq-aadyq-cai"),
     ("SONIC", "qtooy-2yaaa-aaaaq-aabvq-cai"),
     ("Nuance", "rzbmc-yiaaa-aaaaq-aabsq-cai"),
+    # Added after a reader request on 2026-04-23 (forum thread 67793, post #2).
+    ("TACO DAO", "lacdn-3iaaa-aaaaq-aae3a-cai"),
 ]
 
 USER_AGENT = "Mozilla/5.0 (compatible; SNS-Digest/0.1; +https://github.com/WoodrowLove/sns-digest)"
