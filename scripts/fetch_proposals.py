@@ -41,6 +41,9 @@ TARGETS: list[tuple[str, str]] = [
     ("Nuance", "rzbmc-yiaaa-aaaaq-aabsq-cai"),
     # Added after a reader request on 2026-04-23 (forum thread 67793, post #2).
     ("TACO DAO", "lacdn-3iaaa-aaaaq-aae3a-cai"),
+    # Added after a reader request on 2026-04-24 (forum thread 67793, post #4).
+    # Keeping ALICE for now — will drop if no live signal over 2-3 issues.
+    ("PHASMA", "nb7he-piaaa-aaaaq-aadqq-cai"),
 ]
 
 USER_AGENT = "Mozilla/5.0 (compatible; SNS-Digest/0.1; +https://github.com/WoodrowLove/sns-digest)"
